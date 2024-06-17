@@ -1,2 +1,2 @@
-# elections_analysis
-This repository contains code to analyze the french elections.
+# elections-analysis
+A repository for election result analysis
